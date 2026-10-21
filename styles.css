@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  padding: 25px;
+  background-color: aqua;
+}
+h1{
+	color: #5C6AC4;
+}
+
+img{
+  width:650
+}
+
+ul{
+  text-align: start;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
